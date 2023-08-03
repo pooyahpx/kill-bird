@@ -1,0 +1,30 @@
+C:\Users\Mark\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird_Shooter.MainFrame.resources
+C:\Users\Mark\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird_Hunt.Properties.Resources.resources
+C:\Users\Mark\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Simple Bird Hunt Game in C#\bin\Debug\Bird Hunt.exe.config
+C:\Users\Mark\Desktop\Simple Bird Hunt Game in C#\bin\Debug\Bird Hunt.exe
+C:\Users\Mark\Desktop\Simple Bird Hunt Game in C#\bin\Debug\Bird Hunt.pdb
+C:\Users\Mark\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.exe
+C:\Users\Mark\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.pdb
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\bin\Debug\Bird Hunt.exe.config
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\bin\Debug\Bird Hunt.exe
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\bin\Debug\Bird Hunt.pdb
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.csprojAssemblyReference.cache
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\obj\Debug\Bird_Shooter.MainFrame.resources
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\obj\Debug\Bird_Hunt.Properties.Resources.resources
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.csproj.GenerateResource.cache
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.csproj.CoreCompileInputs.cache
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.exe
+C:\Users\A.Refua\Downloads\Compressed\Simple Bird Hunt Game in C#\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.pdb
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\bin\Debug\Bird Hunt.exe.config
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\bin\Debug\Bird Hunt.exe
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\bin\Debug\Bird Hunt.pdb
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.csproj.AssemblyReference.cache
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.csproj.SuggestedBindingRedirects.cache
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird_Shooter.MainFrame.resources
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird_Hunt.Properties.Resources.resources
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.csproj.GenerateResource.cache
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.csproj.CoreCompileInputs.cache
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.exe
+C:\Users\poya\Desktop\Simple Bird Hunt Game in C#\obj\Debug\Bird Hunt.pdb
